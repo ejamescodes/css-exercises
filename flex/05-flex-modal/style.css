@@ -73,7 +73,7 @@ button.cancel {
   padding: 12px;
   justify-content: center;
   gap: 12px;
-  flex-shrink: 1;
+  flex-shrink: 0;
 }
 
 .form {
